@@ -5,7 +5,7 @@ Datasets:
   capital bike share 
   weather
   geocode
-	distance calculator
+  distance calculator
 
 Areas of Analysis:
   Start/stop locations
@@ -18,3 +18,7 @@ Areas of Analysis:
     time of year
   Weather data
     rides/day by temp, precipitation 
+    
+
+  To do:
+    upload datasets
