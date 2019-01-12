@@ -5,12 +5,14 @@ Datasets:
   capital bike share 
   weather
   geocode
+	distance calculator
 
 Areas of Analysis:
   Start/stop locations
     heat map
     frequent routes
     by member type
+		distance
   Most popular times
     Time of day
     time of year
