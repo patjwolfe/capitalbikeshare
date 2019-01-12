@@ -12,7 +12,7 @@ Areas of Analysis:
     heat map
     frequent routes
     by member type
-		distance
+	  distance
   Most popular times
     Time of day
     time of year
