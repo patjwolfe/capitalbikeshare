@@ -8,17 +8,16 @@ Datasets:
 * distance calculator
 
 Areas of Analysis:
-* Start/stop locations
+* Start/stop locations (**Pat / Alpesh)
   - [ ] heat map
   - [ ] frequent routes
   - [ ] by member type
   - [ ] distance
-* Most popular times
+* Most popular times (**Tom)
   - [ ] Time of day
   - [ ] time of year
-* Weather data
+* Weather data (**Hannah)
   - [ ] rides/day by temp, precipitation 
-
   To do:
     - [ ] upload datasets
     - [ ] work individually on project
