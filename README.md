@@ -8,7 +8,7 @@ Datasets:
 * distance calculator
 
 Areas of Analysis:
-* Start/stop locations (**Pat / **Tom)
+* Start/stop locations (Pat / Tom)
   - [ ] heat map
   - [ ] frequent routes
   - [ ] by member type
@@ -16,9 +16,9 @@ Areas of Analysis:
 * Most popular times
   - [ ] Time of day
   - [ ] time of year
-* Weather data (**Hannah / **Alpesh)
+* Weather data (Hannah / Alpesh)
   - [ ] rides/day by temp, precipitation 
-* Other ideas (*All)
+* Other ideas (All)
   - [ ]  
 
   
